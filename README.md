@@ -1,3 +1,14 @@
+<h2 align="center">where is minesraft2?</h2>
+<p align="center">
+  minesraft's github account has been terminated.<br>
+  we don't know when it will be back.<br>
+  he is currently using <a href="https://github.com/MllereA">this</a> account to access github.<br>
+  for updates, follow that account and join the <a href="https://discord.gg/kingdomofjod">discord</a> server.<br>
+  <b>i am not minesraft, i am helping him by keeping this repository up</b>
+</p>
+  
+<br><br>
+
 <p align="center">Cheats made by someone who knows more about what they're doing</p>
 <h2 align="center">Check out the <a href="https://github.com/Minesraft2/Blooket-Cheats/tree/content">content branch</a> for more cheats</h2>
 <h3 align="center"><a href="https://discord.gg/QznzysxvX4">Support Server</a></h2>
